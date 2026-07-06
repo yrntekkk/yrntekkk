@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>¡Hola! Soy Matías Briones 👾</h1>
+  <h1>¡Hola! Soy Matías Briones</h1>
   <h3>Desarrollador Frontend y Móvil | Estudiante de Ingeniería en Informática</h3>
   
-  <p>
-    De Santiago, Chile 🇨🇱 para el mundo, uniendo la lógica del código con el impacto visual.
-  </p>
+  <blockquote>
+    De Santiago, Chile para el mundo, uniendo la lógica del código con el impacto visual.
+  </blockquote>
 
   <div>
     <a href="https://www.linkedin.com/in/matias-briones-b7831a418/" target="_blank">
@@ -57,7 +57,7 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
+## Mis Estadísticas en GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&bg_color=121212&title_color=00FF9D&icon_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
@@ -70,7 +70,7 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 <br/>
 
 <div align="center">
-  <h3>🐍 Mis Contribuciones con el Snake</h3>
+  <h3>Mis Contribuciones con el Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake.svg">
