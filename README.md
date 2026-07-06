@@ -59,11 +59,11 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Estadísticas de yrntekkk" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
   
   <br/><br/>
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&theme=tokyonight&bg_color=000000&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Top Lenguajes" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&theme=tokyonight&bg_color=000000&title_color=8A2BE2&text_color=ffffff&hide_border=true&locale=es" alt="Top Lenguajes" />
 </div>
 
 <br/>
