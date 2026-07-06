@@ -14,6 +14,10 @@
       <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" />
     </a>
   </div>
+
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=yrntekkk&label=VISITAS+AL+PERFIL&color=00FF9D&style=for-the-badge" alt="Contador de Visitas" />
 </div>
 
 <br/>
@@ -57,13 +61,22 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 ---
 
-## Mis Estadísticas en GitHub
+## Logros y Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yrntekkk&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=121212&title_color=00FF9D&text_color=E0E0E0" alt="Trofeos de GitHub" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrntekkk&theme=dark&background=121212&ring=00FF9D&fire=00FF9D&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=E0E0E0&hide_border=true&locale=es" alt="Racha de GitHub" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&bg_color=121212&title_color=00FF9D&icon_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
-  
-  <br/><br/>
-  
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&bg_color=121212&title_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Top Lenguajes" />
 </div>
 
