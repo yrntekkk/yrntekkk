@@ -24,7 +24,7 @@ jobs:
           # Aquí configuramos la culebra morada para el modo oscuro
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8A2BE2
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF9D
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
