@@ -55,17 +55,6 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A2BE2" alt="VS Code" />
 </p>
 
----
-
-## 📂 Proyectos Destacados
-
-### 🛒 DEPT. Store (2026 - Actualidad)
-*Web Frontend interactiva de e-commerce construida con React y Next.js.*
-* **Características:** Catálogo de productos, carrito de compras, login/perfil, panel administrativo con Firebase y gestión de stock.
-* **Tecnologías:** JavaScript, CSS, Vercel, Git/GitHub.
-* **Enlaces:** [Repositorio en GitHub](https://github.com/LeaGaj04/DEPT.-Store) | [Demo en Vercel](https://dept-theta.vercel.app/)
-
----
 
 ## 📊 Mis Estadísticas en GitHub
 
