@@ -18,18 +18,18 @@
 
 <br/>
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Soy un desarrollador apasionado por la creación de interfaces web y aplicaciones móviles atractivas, funcionales y centradas en el usuario (UI/UX). Actualmente estudio Ingeniería en Informática en el Instituto Duoc UC (San Joaquín) y me destaco por mi capacidad de aprendizaje autónomo y resolución creativa de problemas técnicos.
 
-* 🎓 **Actualidad:** Estudiando Ingeniería en Informática (2023 - Presente).
-* 💻 **Enfoque:** Desarrollo Frontend con tecnologías modernas y aplicaciones móviles multiplataforma.
-* 🎨 **Filosofía:** Combinar herramientas visuales con código limpio para lograr la mejor experiencia de usuario.
-* 📫 **Contáctame para:** Proyectos Frontend, desarrollo en React Native o diseño UI/UX.
+* **Actualidad:** Estudiando Ingeniería en Informática (2023 - Presente).
+* **Enfoque:** Desarrollo Frontend con tecnologías modernas y aplicaciones móviles multiplataforma.
+* **Filosofía:** Combinar herramientas visuales con código limpio para lograr la mejor experiencia de usuario.
+* **Contáctame para:** Proyectos Frontend, desarrollo en React Native o diseño UI/UX.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Frontend Web
 <p>
