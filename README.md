@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Soy un desarrollador apasionado por la creación de interfaces web y aplicaciones móviles atractivas, funcionales y centradas en el usuario (UI/UX). Actualmente estudio Ingeniería en Informática en el Instituto Duoc UC (San Joaquín) y me destaco por mi capacidad de aprendizaje autónomo y resolución creativa de problemas técnicos.
 
@@ -29,7 +29,7 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Frontend Web
 <p>
@@ -56,7 +56,7 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 </p>
 
 
-## 📊 Mis Estadísticas en GitHub
+## Mis Estadísticas en GitHub
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
@@ -70,7 +70,7 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 
 <div align="center">
-  <h3>🐍 Mis Contribuciones con el Snake</h3>
+  <h3> Mis Contribuciones con el Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake.svg">
