@@ -8,17 +8,17 @@
 
   <div>
     <a href="https://www.linkedin.com/in/matias-briones-b7831a418/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn" />
     </a>
     <a href="mailto:matips4123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" />
     </a>
   </div>
 </div>
 
 <br/>
 
-## Sobre Mí
+## 🚀 Sobre Mí
 
 Soy un desarrollador apasionado por la creación de interfaces web y aplicaciones móviles atractivas, funcionales y centradas en el usuario (UI/UX). Actualmente estudio Ingeniería en Informática en el Instituto Duoc UC (San Joaquín) y me destaco por mi capacidad de aprendizaje autónomo y resolución creativa de problemas técnicos.
 
@@ -29,48 +29,48 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 ---
 
-## Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 ### Frontend Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=8A2BE2" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=8A2BE2" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8A2BE2" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8A2BE2" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=8A2BE2" alt="Astro" />
+  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=00FF9D" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=00FF9D" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=00FF9D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=00FF9D" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Astro-121212?style=for-the-badge&logo=astro&logoColor=00FF9D" alt="Astro" />
 </p>
 
 ### Desarrollo Móvil
 <p>
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=8A2BE2" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=8A2BE2" alt="Expo" />
-  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=8A2BE2" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/React_Native-121212?style=for-the-badge&logo=react&logoColor=00FF9D" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-121212?style=for-the-badge&logo=expo&logoColor=00FF9D" alt="Expo" />
+  <img src="https://img.shields.io/badge/Android_Studio-121212?style=for-the-badge&logo=android-studio&logoColor=00FF9D" alt="Android Studio" />
 </p>
 
 ### Diseño y Herramientas
 <p>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=8A2BE2" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=8A2BE2" alt="Canva" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=8A2BE2" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=00FF9D" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-121212?style=for-the-badge&logo=canva&logoColor=00FF9D" alt="Canva" />
+  <img src="https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=00FF9D" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-121212?style=for-the-badge&logo=visual-studio-code&logoColor=00FF9D" alt="VS Code" />
 </p>
 
+---
 
-## Mis Estadísticas en GitHub
+## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&bg_color=121212&title_color=00FF9D&icon_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
   
   <br/><br/>
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&theme=tokyonight&bg_color=000000&title_color=8A2BE2&text_color=ffffff&hide_border=true&locale=es" alt="Top Lenguajes" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&bg_color=121212&title_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Top Lenguajes" />
 </div>
 
 <br/>
 
-
 <div align="center">
-  <h3> Mis Contribuciones con el Snake</h3>
+  <h3>🐍 Mis Contribuciones con el Snake</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake.svg">
