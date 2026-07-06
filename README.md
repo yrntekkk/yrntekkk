@@ -64,7 +64,7 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 ## Logros y Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=yrntekkk&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=121212&title_color=00FF9D&text_color=E0E0E0" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=yrntekkk&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&bg_color=121212&title_color=00FF9D&text_color=E0E0E0&badge_style=flat" alt="Trofeos de GitHub" />
 </div>
 
 <br/>
