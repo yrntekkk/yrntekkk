@@ -59,13 +59,23 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yrntekkk&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Estadísticas de yrntekkk" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&theme=tokyonight&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Estadísticas de yrntekkk" />
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&theme=tokyonight&bg_color=000000&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Top Lenguajes" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&theme=tokyonight&bg_color=000000&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Top Lenguajes" />
 </div>
 
+<br/>
+
+<div align="center">
+  <h3>🐍 Mis Contribuciones con el Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <br/>
 
 <div align="center">
