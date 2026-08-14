@@ -28,7 +28,6 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 * **Actualidad:** Estudiando Ingeniería en Informática (2023 - Presente).
 * **Enfoque:** Desarrollo Frontend con tecnologías modernas y aplicaciones móviles multiplataforma.
-* **Filosofía:** Combinar herramientas visuales con código limpio para lograr la mejor experiencia de usuario.
 * **Contáctame para:** Proyectos Frontend, desarrollo en React Native o diseño UI/UX.
 
 ---
