@@ -69,10 +69,6 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 <br/>
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yrntekkk&show_icons=true&bg_color=121212&title_color=00FF9D&icon_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Estadísticas de yrntekkk" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yrntekkk&layout=compact&bg_color=121212&title_color=00FF9D&text_color=E0E0E0&hide_border=true&locale=es" alt="Top Lenguajes" />
-</div>
 
 <br/>
 
