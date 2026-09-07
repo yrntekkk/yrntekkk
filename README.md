@@ -63,11 +63,8 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 <br/>
 
-
-<br/>
-
 <div align="center">
-  <h3>Mis Contribuciones con el Snake</h3>
+  <h3>Mis Contribuciones</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yrntekkk/yrntekkk/output/github-contribution-grid-snake.svg">
