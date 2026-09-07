@@ -2,9 +2,6 @@
   <h1>¡Hola! Soy Matías Briones</h1>
   <h3>Desarrollador Frontend y Móvil | Estudiante de Ingeniería en Informática</h3>
   
-  <blockquote>
-    De Santiago, Chile para el mundo, uniendo la lógica del código con el impacto visual.
-  </blockquote>
 
   <div>
     <a href="https://www.linkedin.com/in/matias-briones-b7831a418/" target="_blank">
