@@ -63,12 +63,6 @@ Soy un desarrollador apasionado por la creación de interfaces web y aplicacione
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yrntekkk&theme=dark&background=121212&ring=00FF9D&fire=00FF9D&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=00FF9D&sideLabels=00FF9D&dates=E0E0E0&hide_border=true&locale=es" alt="Racha de GitHub" />
-</div>
-
-<br/>
-
 
 <br/>
 
