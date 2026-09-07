@@ -11,10 +11,6 @@
       <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" />
     </a>
   </div>
-
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=yrntekkk&label=VISITAS+AL+PERFIL&color=00FF9D&style=for-the-badge" alt="Contador de Visitas" />
 </div>
 
 <br/>
